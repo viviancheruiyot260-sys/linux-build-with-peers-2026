@@ -1,4 +1,4 @@
-# Linux Build With Peers 2026 🐧
+# Linux Build With Peers 2026 
 
 My six-week Linux learning and practice journey with Build With Peers.
 
