@@ -38,7 +38,7 @@ The documentation includes practical work, challenges, solutions, and reflection
 | Week   | Focus              | Status         |
 | ------ | ------------------ | -------------- |
 | Week 1 | Linux Fundamentals | done |
-| Week 2 | —                  | ⏳              |
+| Week 2 | linux commands       done             |
 | Week 3 | —                  | ⏳              |
 | Week 4 | —                  | ⏳              |
 | Week 5 | —                  | ⏳              |
