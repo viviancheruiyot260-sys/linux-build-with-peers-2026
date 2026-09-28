@@ -140,5 +140,5 @@ locate  → find files using a database
 /usr/share/doc → additional software documentation
 ```
 
-The main lesson from this module is **knowing how to find information is more important than memorizing every command.**
+
 
