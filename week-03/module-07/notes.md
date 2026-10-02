@@ -144,13 +144,4 @@ l = symbolic link
 
 ---
 
-## Key Takeaway
 
-Module 7 is about **understanding where you are and navigating the Linux filesystem**.
-
-```text
-pwd → Where am I?
-ls  → What is here?
-cd  → Move around
-ls -la → Inspect everything
-```
