@@ -1,5 +1,5 @@
 
-# Module 7: Files and Directories
+ Files and Directories
 
 
 Linux uses a **hierarchical filesystem** that organizes files and directories under the root directory `/`.
