@@ -1,14 +1,5 @@
 
- Archiving and Compression — Lab
-
-## 1. Create a Practice Directory
-
-```bash
-mkdir -p ~/module9-lab
-cd ~/module9-lab
-```
-
-Create some practice files:
+ Archiving and Compression 
 
 ```bash
 echo "Linux file one" > file1.txt
