@@ -39,7 +39,7 @@ The documentation includes practical work, challenges, solutions, and reflection
 | ------ | ------------------ | -------------- |
 | Week 1 | Linux Fundamentals | done |
 | Week 2 | linux commands      |done|
-| Week 3 | —                  | ⏳              |
+| Week 3 | Linux File Management|done     |
 | Week 4 | —                  | ⏳              |
 | Week 5 | —                  | ⏳              |
 | Week 6 | —                  | ⏳              |
