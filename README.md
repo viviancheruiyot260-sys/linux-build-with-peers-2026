@@ -40,5 +40,5 @@ The documentation includes practical work, challenges, solutions, and reflection
 | Week 2 | linux commands     
 | Week 3 | Linux File Management
 | Week 4 | Bash scripting&computer hardware
-| Week 5 |            
+| Week 5 | networking           
 
