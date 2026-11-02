@@ -28,8 +28,7 @@ week-02/
 week-03/
 week-04/
 week-05/
-week-06/
-```
+
 
 The documentation includes practical work, challenges, solutions, and reflections from my learning journey.
 
@@ -42,5 +41,4 @@ The documentation includes practical work, challenges, solutions, and reflection
 | Week 3 | Linux File Management
 | Week 4 | Bash scripting&computer hardware
 | Week 5 |            
-| Week 6 | 
 
