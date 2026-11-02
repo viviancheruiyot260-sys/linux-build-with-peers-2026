@@ -35,19 +35,12 @@ The documentation includes practical work, challenges, solutions, and reflection
 
 ## Progress
 
-| Week   | Focus              | Status         |
-| ------ | ------------------ | -------------- |
-| Week 1 | Linux Fundamentals | done |
-| Week 2 | linux commands      |done|
-| Week 3 | Linux File Management|done     |
-| Week 4 | Bash scripting&computer hardware |
-| Week 5 | —                  | ⏳              |
-| Week 6 | —                  | ⏳              |
+| Week   | Focus              
+| ------ | ------------------
+| Week 1 | Linux Fundamentals 
+| Week 2 | linux commands     
+| Week 3 | Linux File Management
+| Week 4 | Bash scripting&computer hardware
+| Week 5 |            
+| Week 6 | 
 
-## Projects
-
-Projects completed during the program will be documented here.
-
-## Goal
-
-Build a strong practical foundation in Linux and apply what I learn through hands-on practice and projects.
